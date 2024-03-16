@@ -42,4 +42,6 @@ Encourage readers to explore further customization and additional features to im
 8. References:
 
 Include links to official documentation for Redux Toolkit, React Bootstrap, and any other relevant resources used in the implementation.
- 
+![ecom1](https://github.com/Yug3010/E-commerce-Products-Website/assets/76808047/ed7c15ca-44a3-4874-ba70-f16908c61656)
+
+
